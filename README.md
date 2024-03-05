@@ -10,7 +10,7 @@
 
 ### Who am I ?
 
-- 🌱 I'm currently learning `HTML5`, `CSS`, `JavaScript`, `JQuery`, `Bootstrap`
+- 🌱 I'm currently learning `HTML5`, `CSS`, `JavaScript`, `Bootstrap`
 - 🎓 I majored in Chinese language and literature, at Tsinghua University
 - 🏠 My hometown is Incheon, Korea
 - 🎬 My hobby is watching movies
@@ -24,7 +24,6 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 - **Development Tool**
