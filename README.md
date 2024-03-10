@@ -10,7 +10,7 @@
 
 ### Who am I ?
 
-- 🌱 I'm currently learning `HTML5`, `CSS`, `JavaScript`, `Bootstrap`
+- 🌱 I'm currently learning `HTML5`, `CSS`, `JavaScript`, `jQuery`, `Bootstrap`
 - 🎓 I majored in Chinese language and literature, at Tsinghua University
 - 🏠 My hometown is Incheon, Korea
 - 🎬 My hobby is watching movies
@@ -24,6 +24,7 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 - **Development Tool**
@@ -50,5 +51,3 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hjc3790@gmail.com)
 [![Tistory Badge](https://img.shields.io/badge/Dev%20Blog-FF7355?style=flat&logoColor=white)](https://hjinn0813.tistory.com/)
-
-[![Tistory Card](https://github-readme-tistory-card.vercel.app/api?name=hjinn0813&theme=default)](https://hjinn0813.tistory.com/)
