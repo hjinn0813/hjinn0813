@@ -10,7 +10,7 @@
 
 ### Who am I ?
 
-- 🌱 I'm currently learning `HTML`, `CSS`, `JavaScript`, `jQuery`, `Bootstrap`, `Node.js`, `React`
+- 🌱 I'm currently learning `HTML`, `CSS`, `JavaScript`, `React`, `jQuery`, `Bootstrap`, `Node.js`
 - 🎓 I majored in Chinese language and literature, at Tsinghua University
 - 🏠 My hometown is Incheon, Korea
 - 🎬 My hobby is watching movies
