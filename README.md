@@ -12,7 +12,6 @@
 
 - 🌱 I'm currently learning `HTML`, `CSS`, `JavaScript`, `React`, `jQuery`, `Bootstrap`, `Node.js`
 - 🎓 I majored in Chinese language and literature, at Tsinghua University
-- 🏠 My hometown is Incheon, Korea
 - 🎬 My hobby is watching movies
 
 #
@@ -28,6 +27,7 @@
 ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
 
 - **Development Tool**
 
