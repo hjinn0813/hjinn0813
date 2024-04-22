@@ -10,7 +10,6 @@
 
 ### Who am I ?
 
-- 🌱 I'm currently learning `HTML`, `CSS`, `JavaScript`, `React`, `SASS`, `Redux`, `TypeScript`, `jQuery`, `Bootstrap`, `Node.js`
 - 🎓 I majored in Chinese language and literature, at Tsinghua University
 - 🎬 My hobby is watching movies
 
