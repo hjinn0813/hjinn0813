@@ -52,7 +52,7 @@
 #
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hjinn0813&show_icons=true&theme=material-palenight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjinn0813&layout=compact&theme=material-palenight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjinn0813&exclude_repo=productive-box&layout=compact&theme=material-palenight)
 ![trophy](https://github-profile-trophy.vercel.app/?username=hjinn0813&theme=dark_lover&row=1&column=6&margin-w=10&margin-h=10&no-frame=true)
 #
 
