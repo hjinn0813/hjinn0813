@@ -58,5 +58,5 @@
 
 ### Contact
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hjc3790@gmail.com)
-[![Tistory Badge](https://img.shields.io/badge/Dev%20Blog-000000?style=for-the-badge&logoColor=white)](https://hjinn0813.tistory.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hjc3790@gmail.com)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://hjinn0813.tistory.com/)
