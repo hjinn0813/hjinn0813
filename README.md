@@ -5,7 +5,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=292d3e&height=200&section=header&text=Welcome%20to%20hjinn0813's%20GitHub!👋&fontSize=45&fontColor=c792ea)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhjinn0813&count_bg=%23c792ea&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://github.com/hjinn0813)
-![GitHub followers](https://img.shields.io/github/followers/hjinn0813?style=flat&color=c792ea)
 
 #
 
@@ -18,7 +17,7 @@
 
 ### Now learning, or have been used
 
-- **Frontend**
+- **Tech Stack**
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,6 +30,8 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
 ![Typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 - **Development Tool**
 
