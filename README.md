@@ -22,8 +22,8 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
@@ -55,7 +55,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hjinn0813&show_icons=true&theme=material-palenight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjinn0813&exclude_repo=productive-box&layout=compact&theme=material-palenight)
-![trophy](https://github-profile-trophy.vercel.app/?username=hjinn0813&theme=dark_lover&row=1&column=6&margin-w=10&margin-h=10&no-frame=true)
 #
 
 ### Contact
