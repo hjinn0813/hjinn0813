@@ -33,6 +33,7 @@
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Swiper](https://img.shields.io/badge/swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white)
+  ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=GreenSock&logoColor=white)
   
 - **Development Tool**
 
