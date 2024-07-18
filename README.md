@@ -57,10 +57,6 @@
 
 #
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hjinn0813&exclude_repo=productive-box&show_icons=true&theme=material-palenight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjinn0813&exclude_repo=productive-box&layout=compact&theme=material-palenight)
-#
-
 ### Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hjc3790@gmail.com)
