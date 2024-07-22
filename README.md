@@ -8,13 +8,6 @@
 
 #
 
-### Who am I ?
-
-- 🎓 I majored in Chinese language and literature, at Tsinghua University
-- 🎬 My hobby is watching movies
-
-#
-
 ### Now learning, or have been used
 
 - **Tech Stack**
@@ -57,26 +50,27 @@
 
 #
 
-### Projects I've Contributed To
+### Projects I've contributed to
 
-- Team Projects
+- **Team Projects**
   
   [![EVERPOWER](https://github-readme-stats.vercel.app/api/pin/?username=hjinn0813&repo=EVERPOWER)](https://github.com/hjinn0813/EVERPOWER)
   [![Lumipet](https://github-readme-stats.vercel.app/api/pin/?username=eun1230&repo=sessac_B_teamproject)](https://github.com/eun1230/sessac_B_teamproject)
   [![batdream](https://github-readme-stats.vercel.app/api/pin/?username=treasure-2u&repo=batDream)](https://github.com/treasure-2u/batDream)
 
-- Toy Projects
+- **Toy Projects**
   
   [![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=hjinn0813&repo=hjinn0813.github.io)](https://github.com/hjinn0813/hjinn0813.github.io)
   [![cinetalk](https://github-readme-stats.vercel.app/api/pin/?username=hjinn0813&repo=cinetalk)](https://github.com/hjinn0813/cinetalk)
 
 #
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hjinn0813&exclude_repo=productive-box&show_icons=true&theme=material-palenight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjinn0813&exclude_repo=productive-box&layout=compact&theme=material-palenight)
-#
-
 ### Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hjc3790@gmail.com)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://hjinn0813.tistory.com/)
+
+#
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hjinn0813&exclude_repo=productive-box&show_icons=true&theme=material-palenight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjinn0813&exclude_repo=productive-box&layout=compact&theme=material-palenight)
