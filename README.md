@@ -67,8 +67,7 @@
 
 - Toy Projects
   
-  [![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=hjinn0813&repo=hjinn0813.github.io)](https://github.com/hjinn0813/hjinn0813.github.io)
-  [![cinetalk](https://github-readme-stats.vercel.app/api/pin/?username=hjinn0813&repo=cinetalk)](https://github.com/hjinn0813/cinetalk)
+  [![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=hjinn0813&repo=hjinn0813.github.io)](https://github.com/hjinn0813/hjinn0813.github.io) [![cinetalk](https://github-readme-stats.vercel.app/api/pin/?username=hjinn0813&repo=cinetalk)](https://github.com/hjinn0813/cinetalk)
 
 #
 
