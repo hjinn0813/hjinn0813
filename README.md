@@ -59,17 +59,50 @@
 
 ### Projects I've contributed to
 
-- **Team Projects**
-  
-  [![EVERPOWER](https://github-readme-stats.vercel.app/api/pin/?username=hjinn0813&repo=EVERPOWER)](https://github.com/hjinn0813/EVERPOWER)
-  [![Lumipet](https://github-readme-stats.vercel.app/api/pin/?username=eun1230&repo=sessac_B_teamproject)](https://github.com/eun1230/sessac_B_teamproject)
-  [![batdream](https://github-readme-stats.vercel.app/api/pin/?username=treasure-2u&repo=batDream)](https://github.com/treasure-2u/batDream)
-
-- **Toy Projects**
-  
-  [![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=hjinn0813&repo=hjinn0813.github.io)](https://github.com/hjinn0813/hjinn0813.github.io)
-  [![cinetalk](https://github-readme-stats.vercel.app/api/pin/?username=hjinn0813&repo=cinetalk)](https://github.com/hjinn0813/cinetalk)
-
+<table>
+  <tr>
+    <th rowspan="4" style="text-align: center">Team Projects</th>
+    <th style="text-align: center">Project Name</th>
+    <th style="text-align: center">Duration</th>
+  </tr>
+  <tr>
+    <th style="text-align: center">
+      <a href="https://github.com/hjinn0813/EVERPOWER">
+      에버파워
+    </th>
+    <td>2024.01.11 ~ 01.28</td>
+  </tr>
+  <tr>
+    <th style="text-align: center">
+      <a href="https://github.com/eun1230/sessac_B_teamproject">
+      루미펫
+    </th>
+    <td>2024.03.13 ~ 03.28</td>
+  </tr>
+  <tr>
+    <th style="text-align: center">
+      <a href="https://github.com/treasure-2u/batDream">
+      밭드림
+    </th>
+    <td>2024.04.26 ~ 05.16</td>
+  </tr>
+  <tr>
+    <th rowspan="2" style="text-align: center">Toy Projects</th>
+    <th style="text-align: center">
+      <a href="https://github.com/hjinn0813/hjinn0813.github.io">
+      Portfolio
+    </th>
+    <td>2024.03.07 ~</td>
+  </tr>
+  <tr>
+    <th style="text-align: center">
+      <a href="https://github.com/hjinn0813/cinetalk">
+      cinetalk
+    </th>
+    <td>2024.07.01 ~ 07.20</td>
+  </tr>
+</table>
+        
 #
 
 ### Contact
