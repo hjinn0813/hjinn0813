@@ -63,13 +63,11 @@
   <tr>
     <th rowspan="4" style="text-align: center">Team Projects</th>
     <th style="text-align: center">Project Name</th>
-    <th style="text-align: center">Duration</th>
     <th style="text-align: center">Tools</th>
     <th style="text-align: center">Link to</th>
   </tr>
   <tr>
     <th style="text-align: center">에버파워</th>
-    <td>2024.01.11 ~ 01.28</td>
     <td>Figma, Slack, Notion</td>
     <td style="text-align: center">
       <a href="https://github.com/hjinn0813/EVERPOWER">README
@@ -77,7 +75,6 @@
   </tr>
   <tr>
     <th style="text-align: center">루미펫</th>
-    <td>2024.03.13 ~ 03.28</td>
     <td>HTML, CSS, JS, Bootstrap..</td>
     <td style="text-align: center">
       <a href="https://lumipet.netlify.app/">Website
@@ -87,7 +84,6 @@
   </tr>
   <tr>
     <th style="text-align: center">밭드림</th>
-    <td>2024.04.26 ~ 05.16</td>
     <td>React, Redux, SASS, Babel..</td>
     <td style="text-align: center">
       <a href="https://batdream.vercel.app/">Website
@@ -98,7 +94,6 @@
   <tr>
     <th rowspan="2" style="text-align: center">Toy Projects</th>
     <th style="text-align: center">Portfolio</th>
-    <td>2024.03.07 ~</td>
     <td>HTML, CSS, JS, GSAP..</td>
     <td style="text-align: center">
       <a href="https://hjinn0813.github.io">Website
@@ -108,7 +103,6 @@
   </tr>
   <tr>
     <th style="text-align: center">cinetalk</th>
-    <td>2024.07.01 ~ 07.20</td>
     <td>React, Redux, SASS, Swiper..</td>
     <td style="text-align: center">
       <a href="https://cinetalk.vercel.app">Website
