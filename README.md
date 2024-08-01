@@ -61,12 +61,13 @@
 
 <table>
   <tr>
-    <th rowspan="4" style="text-align: center">Team Projects</th>
+    <th style="text-align: center"></th>
     <th style="text-align: center">Project Name</th>
     <th style="text-align: center">Tools</th>
     <th style="text-align: center">Link to</th>
   </tr>
   <tr>
+    <th rowspan="3" style="text-align: center">Team Projects</th>
     <th style="text-align: center">에버파워</th>
     <td>Figma, Slack, Notion</td>
     <td style="text-align: center">
