@@ -94,7 +94,7 @@
   </tr>
   <tr>
     <th rowspan="2" style="text-align: center">Toy Projects</th>
-    <th style="text-align: center">Portfolio</th>
+    <th style="text-align: center">포트폴리오</th>
     <td>HTML, CSS, JS, GSAP..</td>
     <td style="text-align: center">
       <a href="https://hjinn0813.github.io">Website
@@ -103,7 +103,7 @@
     </td>
   </tr>
   <tr>
-    <th style="text-align: center">cinetalk</th>
+    <th style="text-align: center">시네톡</th>
     <td>React, Redux, SASS, Swiper..</td>
     <td style="text-align: center">
       <a href="https://cinetalk.vercel.app">Website
