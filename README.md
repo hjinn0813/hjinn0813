@@ -68,14 +68,14 @@
   </tr>
   <tr>
     <th rowspan="3" style="text-align: center">Team Projects</th>
-    <th style="text-align: center">에버파워</th>
+    <th style="text-align: center">에버파워<br/>(EVERPOWER)</th>
     <td>Figma, Slack, Notion</td>
     <td style="text-align: center">
       <a href="https://github.com/hjinn0813/EVERPOWER">README
     </td>
   </tr>
   <tr>
-    <th style="text-align: center">루미펫</th>
+    <th style="text-align: center">루미펫<br/>(Lumipet)</th>
     <td>HTML, CSS, JS, Bootstrap..</td>
     <td style="text-align: center">
       <a href="https://lumipet.netlify.app/">Website
@@ -84,7 +84,7 @@
     </td>
   </tr>
   <tr>
-    <th style="text-align: center">밭드림</th>
+    <th style="text-align: center">밭드림<br/>(BatDream)</th>
     <td>React, Redux, SASS, Babel..</td>
     <td style="text-align: center">
       <a href="https://batdream.vercel.app/">Website
@@ -94,7 +94,7 @@
   </tr>
   <tr>
     <th rowspan="2" style="text-align: center">Toy Projects</th>
-    <th style="text-align: center">포트폴리오</th>
+    <th style="text-align: center">Portfolio ver.1</th>
     <td>HTML, CSS, JS, GSAP..</td>
     <td style="text-align: center">
       <a href="https://hjinn0813.github.io">Website
@@ -103,7 +103,7 @@
     </td>
   </tr>
   <tr>
-    <th style="text-align: center">시네톡</th>
+    <th style="text-align: center">시네톡<br/>(cinetalk)</th>
     <td>React, Redux, SASS, Swiper..</td>
     <td style="text-align: center">
       <a href="https://cinetalk.vercel.app">Website
