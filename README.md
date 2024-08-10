@@ -93,22 +93,31 @@
     </td>
   </tr>
   <tr>
-    <th rowspan="2" style="text-align: center">Toy Projects</th>
-    <th style="text-align: center">Portfolio ver.1</th>
-    <td>HTML, CSS, JS, GSAP..</td>
-    <td style="text-align: center">
-      <a href="https://hjinn0813.github.io">Website
-      <br>
-      <a href="https://github.com/hjinn0813/hjinn0813.github.io">README
-    </td>
-  </tr>
-  <tr>
+    <th rowspan="3" style="text-align: center">Toy Projects</th>
     <th style="text-align: center">시네톡<br/>(cinetalk)</th>
     <td>React, Redux, SASS, Swiper..</td>
     <td style="text-align: center">
       <a href="https://cinetalk.vercel.app">Website
       <br>
       <a href="https://github.com/hjinn0813/cinetalk">README
+    </td>
+  </tr>
+  <tr>
+    <th style="text-align: center">Portfolio ver.2<br/>(with React)</th>
+    <td>React, SASS, MUI, GSAP..</td>
+    <td style="text-align: center">
+      <a href="https://hjinn0813.vercel.app">Website
+      <br>
+      <a href="https://github.com/hjinn0813/portfolio">README
+    </td>
+  </tr>
+  <tr>
+    <th style="text-align: center">Portfolio ver.1<br/>(with JS)</th>
+    <td>HTML, CSS, JS, GSAP..</td>
+    <td style="text-align: center">
+      <a href="https://hjinn0813.github.io">Website
+      <br>
+      <a href="https://github.com/hjinn0813/hjinn0813.github.io">README
     </td>
   </tr>
 </table>
