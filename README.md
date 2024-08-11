@@ -125,7 +125,8 @@
 ### Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hjc3790@gmail.com)
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://hjinn0813.tistory.com/)
+[![Tistory](https://img.shields.io/badge/Tistory-ffb47a?style=for-the-badge&logo=tistory&logoColor=black)](https://hjinn0813.tistory.com/)
+[![codepen](https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/hjinn0813)
 
 #
 
