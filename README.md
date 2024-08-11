@@ -95,7 +95,7 @@
   <tr>
     <th rowspan="3" style="text-align: center">Toy Projects</th>
     <th style="text-align: center">시네톡<br/>(cinetalk)</th>
-    <td>React, Redux, SASS, Swiper..</td>
+    <td>React, Redux, SASS, Swiper, MUI..</td>
     <td style="text-align: center">
       <a href="https://cinetalk.vercel.app" target="_blank">Website
       <br>
@@ -104,7 +104,7 @@
   </tr>
   <tr>
     <th style="text-align: center">Portfolio ver.2<br/>(with React)</th>
-    <td>React, SASS, MUI, GSAP..</td>
+    <td>React, SASS, MUI, GSAP, Swiper..</td>
     <td style="text-align: center">
       <a href="https://hjinn0813.vercel.app" target="_blank">Website
       <br>
