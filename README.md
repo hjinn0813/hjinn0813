@@ -87,7 +87,7 @@
   </tr>
   <tr>
     <th style="text-align: center">밭드림<br/>(BatDream)</th>
-    <td>React, Redux, SASS, Babel..</td>
+    <td>React, Redux, SASS, Bootstrap..</td>
     <td style="text-align: center">
       <a href="https://batdream.vercel.app/" target="_blank">Website
       <br>
