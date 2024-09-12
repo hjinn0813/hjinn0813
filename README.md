@@ -122,7 +122,7 @@
   <!-- 새싹 -->
   <tr>
     <td rowspan="3" style="text-align: center">2023.12 <br>~ 2024.05</td>
-    <td rowspan="3" style="text-align: center">서울 청년취업사관학교 <br>프론트엔드 입문 과정 (354시간)</td>
+    <td rowspan="3" style="text-align: center">서울 청년취업사관학교 <br>- 프론트엔드 입문 과정 (354시간)</td>
     <td style="text-align: center">에버파워<br/>(EVERPOWER)</td>
     <td style="text-align: center">
       <a href="https://github.com/hjinn0813/EVERPOWER" target="_blank">README
