@@ -87,7 +87,7 @@
 
   <!-- 뉴딜 -->
   <tr>
-    <td rowspan="3" style="text-align: center">2024.07 ~ 08</td>
+    <td rowspan="3" style="text-align: center">2024.07 <br>~ 2024.08</td>
     <td rowspan="3" style="text-align: center">서울시 뉴딜 일자리 <br>- 모던 웹 풀스택 개발자 과정 (290시간)</td>
     <td style="text-align: center">시네톡<br/>(cinetalk)</td>
     <td style="text-align: center">
@@ -121,7 +121,7 @@
 
   <!-- 새싹 -->
   <tr>
-    <td rowspan="3" style="text-align: center">2023.12 ~ 2024.05</td>
+    <td rowspan="3" style="text-align: center">2023.12 <br>~ 2024.05</td>
     <td rowspan="3" style="text-align: center">서울 청년취업사관학교 <br>프론트엔드 입문 과정 (354시간)</td>
     <td style="text-align: center">에버파워<br/>(EVERPOWER)</td>
     <td style="text-align: center">
@@ -147,7 +147,7 @@
 
   <!-- 패캠 -->
   <tr>
-    <td rowspan="2" style="text-align: center">2023.11 ~ 12</td>
+    <td rowspan="2" style="text-align: center">2023.11 <br>~ 2023.12</td>
     <td rowspan="2" style="text-align: center">패스트캠퍼스 국비지원 <br>- 웹 개발 왕초보 입문 13회차 (30시간)</td>
     <td style="text-align: center">실습</td>
     <td style="text-align: center">
