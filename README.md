@@ -81,14 +81,20 @@
     <td style="text-align: center">2024.08</td>
     <td style="text-align: center">Next.js 셀프 스터디</td>
     <td colspan="2" style="text-align: center">
-      <a href="https://github.com/hjinn0813/nextjs-start" target="_blank">README
+      학습내용: <a href="https://github.com/hjinn0813/nextjs-start" target="_blank">README
     </td>
   </tr>
 
   <!-- 뉴딜 -->
   <tr>
-    <td rowspan="3" style="text-align: center">2024.07 <br>~ 2024.08</td>
-    <td rowspan="3" style="text-align: center">서울시 뉴딜 일자리 <br>- 모던 웹 풀스택 개발자 과정 (290시간)</td>
+    <td rowspan="4" style="text-align: center">2024.07 <br>~ 2024.08</td>
+    <td rowspan="4" style="text-align: center">서울시 뉴딜 일자리 <br>- 모던 웹 풀스택 개발자 과정 (290시간)</td>
+    <td style="text-align: center">학습내용</td>
+    <td style="text-align: center">
+      <a href="https://github.com/hjinn0813/newdeal" target="_blank">README
+    </td>
+  </tr>
+  <tr>
     <td style="text-align: center">시네톡<br/>(cinetalk)</td>
     <td style="text-align: center">
       <a href="https://cinetalk.vercel.app" target="_blank">Website
@@ -115,14 +121,20 @@
     <td style="text-align: center">2024.06</td>
     <td style="text-align: center">Python 셀프 스터디</td>
     <td colspan="2" style="text-align: center">
-      <a href="https://github.com/hjinn0813/python-start" target="_blank">README
+      학습내용: <a href="https://github.com/hjinn0813/python-start" target="_blank">README
     </td>
   </tr>
 
   <!-- 새싹 -->
   <tr>
-    <td rowspan="3" style="text-align: center">2023.12 <br>~ 2024.05</td>
-    <td rowspan="3" style="text-align: center">서울 청년취업사관학교 <br>- 프론트엔드 입문 과정 (354시간)</td>
+    <td rowspan="4" style="text-align: center">2023.12 <br>~ 2024.05</td>
+    <td rowspan="4" style="text-align: center">서울 청년취업사관학교 <br>- 프론트엔드 입문 과정 (354시간)</td>
+    <td style="text-align: center">학습내용</td>
+    <td style="text-align: center">
+      <a href="https://github.com/hjinn0813/SeSAC-GD-3rd" target="_blank">README
+    </td>
+  </tr>
+  <tr>
     <td style="text-align: center">에버파워<br/>(EVERPOWER)</td>
     <td style="text-align: center">
       <a href="https://github.com/hjinn0813/EVERPOWER" target="_blank">README
