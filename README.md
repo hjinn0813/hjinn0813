@@ -61,45 +61,35 @@
 
 #
 
-### Projects I've contributed to
+### Study Timeline
 
 <table>
   <tr>
-    <th style="text-align: center"></th>
-    <th style="text-align: center">Project Name</th>
-    <th style="text-align: center">Tools</th>
-    <th style="text-align: center">Link to</th>
+    <th style="text-align: center">Date</th>
+    <th style="text-align: center">Name</th>
+    <th colspan="2" style="text-align: center">
+      Project links
+    </th>
   </tr>
   <tr>
-    <th rowspan="3" style="text-align: center">Team Projects</th>
-    <th style="text-align: center">에버파워<br/>(EVERPOWER)</th>
-    <td>Figma, Slack, Notion</td>
-    <td style="text-align: center">
-      <a href="https://github.com/hjinn0813/EVERPOWER" target="_blank">README
+    <td style="text-align: center">2024.09 ~</td>
+    <td style="text-align: center">Junior Frontend Developer</td>
+    <td colspan="2" style="text-align: center">
     </td>
   </tr>
   <tr>
-    <th style="text-align: center">루미펫<br/>(Lumipet)</th>
-    <td>HTML, CSS, JS, Bootstrap..</td>
-    <td style="text-align: center">
-      <a href="https://lumipet.netlify.app/" target="_blank">Website
-      <br>
-      <a href="https://github.com/eun1230/sessac_B_teamproject" target="_blank">README
+    <td style="text-align: center">2024.08</td>
+    <td style="text-align: center">Next.js 셀프 스터디</td>
+    <td colspan="2" style="text-align: center">
+      <a href="https://github.com/hjinn0813/nextjs-start" target="_blank">README
     </td>
   </tr>
+
+  <!-- 뉴딜 -->
   <tr>
-    <th style="text-align: center">밭드림<br/>(BatDream)</th>
-    <td>React, Redux, SASS, Bootstrap..</td>
-    <td style="text-align: center">
-      <a href="https://batdream.vercel.app/" target="_blank">Website
-      <br>
-      <a href="https://github.com/treasure-2u/batDream" target="_blank">README
-    </td>
-  </tr>
-  <tr>
-    <th rowspan="3" style="text-align: center">Toy Projects</th>
-    <th style="text-align: center">시네톡<br/>(cinetalk)</th>
-    <td>React, Redux, SASS, Swiper, MUI..</td>
+    <td rowspan="3" style="text-align: center">2024.07 ~ 08</td>
+    <td rowspan="3" style="text-align: center">서울시 뉴딜 일자리 <br>- 모던 웹 풀스택 개발자 과정 (290시간)</td>
+    <td style="text-align: center">시네톡<br/>(cinetalk)</td>
     <td style="text-align: center">
       <a href="https://cinetalk.vercel.app" target="_blank">Website
       <br>
@@ -107,8 +97,7 @@
     </td>
   </tr>
   <tr>
-    <th style="text-align: center">Portfolio ver.2<br/>(with React)</th>
-    <td>React, SASS, MUI, GSAP, Swiper..</td>
+    <td style="text-align: center">Portfolio ver.2<br/>(with React)</td>
     <td style="text-align: center">
       <a href="https://hjinn0813.vercel.app" target="_blank">Website
       <br>
@@ -116,10 +105,63 @@
     </td>
   </tr>
   <tr>
-    <th style="text-align: center">Portfolio ver.1<br/>(with JS)</th>
-    <td>HTML, CSS, JS, GSAP..</td>
+    <td style="text-align: center">Portfolio ver.1<br/>(with JS)</td>
     <td style="text-align: center">
       <a href="https://github.com/hjinn0813/hjinn0813.github.io" target="_blank">README
+    </td>
+  </tr>
+
+  <tr>
+    <td style="text-align: center">2024.06</td>
+    <td style="text-align: center">Python 셀프 스터디</td>
+    <td colspan="2" style="text-align: center">
+      <a href="https://github.com/hjinn0813/python-start" target="_blank">README
+    </td>
+  </tr>
+
+  <!-- 새싹 -->
+  <tr>
+    <td rowspan="3" style="text-align: center">2023.12 ~ 2024.05</td>
+    <td rowspan="3" style="text-align: center">서울 청년취업사관학교 <br>프론트엔드 입문 과정 (354시간)</td>
+    <td style="text-align: center">에버파워<br/>(EVERPOWER)</td>
+    <td style="text-align: center">
+      <a href="https://github.com/hjinn0813/EVERPOWER" target="_blank">README
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center">루미펫<br/>(Lumipet)</td>
+    <td style="text-align: center">
+      <a href="https://lumipet.netlify.app/" target="_blank">Website
+      <br>
+      <a href="https://github.com/eun1230/sessac_B_teamproject" target="_blank">README
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center">밭드림<br/>(BatDream)</td>
+    <td style="text-align: center">
+      <a href="https://batdream.vercel.app/" target="_blank">Website
+      <br>
+      <a href="https://github.com/treasure-2u/batDream" target="_blank">README
+    </td>
+  </tr>
+
+  <!-- 패캠 -->
+  <tr>
+    <td rowspan="2" style="text-align: center">2023.11 ~ 12</td>
+    <td rowspan="2" style="text-align: center">패스트캠퍼스 국비지원 <br>- 웹 개발 왕초보 입문 13회차 (30시간)</td>
+    <td style="text-align: center">실습</td>
+    <td style="text-align: center">
+      <a href="https://mbti-test-hjcho.netlify.app" target="_blank">Website
+      <br>
+      <a href="https://github.com/hjinn0813/mbti_test" target="_blank">README
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center">최종과제</td>
+    <td style="text-align: center">
+      <a href="https://namecard-hjcho.netlify.app" target="_blank">Website
+      <br>
+      <a href="https://github.com/hjinn0813/namecard" target="_blank">README
     </td>
   </tr>
 </table>
