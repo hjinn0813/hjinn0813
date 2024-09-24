@@ -87,8 +87,9 @@
   <tr>
     <td style="text-align: center">2024.06</td>
     <td style="text-align: center">Python 셀프 스터디</td>
-    <td style="text-align: center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-</td>
+    <td style="text-align: center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+    </td>
     <td colspan="2" style="text-align: center">
       학습내용: <a href="https://github.com/hjinn0813/python-start" target="_blank">README
     </td>
@@ -186,6 +187,14 @@
       <br>
       <a href="https://github.com/hjinn0813/namecard" target="_blank">README
     </td>
+  </tr>
+  <tr>
+    <td style="text-align: center">2023.08 <br>~ 2023.10</td>
+    <td style="text-align: center">패스트캠퍼스 국비지원 <br>- 포토샵 5주 완성 15회차 (30시간)</td>
+    <td style="text-align: center">
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="ohotoshop">
+    </td>
+    <td colspan="2" style="text-align: center"></td>
   </tr>
 </table>
         
