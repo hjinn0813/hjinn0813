@@ -38,7 +38,7 @@
   <!-- 뉴딜 -->
   <tr>
     <td rowspan="4" style="text-align: center">2024.07 <br>~ 2024.08</td>
-    <td rowspan="4" style="text-align: center">서울시 뉴딜 일자리 <br>- 모던 웹 풀스택 개발자 과정 (290시간)</td>
+    <td rowspan="4" style="text-align: center">서울시 뉴딜 일자리 <br>- 모던 웹 풀스택 개발자 과정 (290H)</td>
     <td rowspan="4" style="text-align: center">
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
@@ -96,7 +96,7 @@
   <!-- 새싹 -->
   <tr>
     <td rowspan="4" style="text-align: center">2023.12 <br>~ 2024.05</td>
-    <td rowspan="4" style="text-align: center">서울 청년취업사관학교 <br>- 프론트엔드 입문 과정 (354시간)</td>
+    <td rowspan="4" style="text-align: center">서울 청년취업사관학교 <br>- 프론트엔드 입문 과정 (354H)</td>
     <td rowspan="4" style="text-align: center">
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
@@ -159,7 +159,7 @@
   <!-- 패캠 -->
   <tr>
     <td rowspan="2" style="text-align: center">2023.11 <br>~ 2023.12</td>
-    <td rowspan="2" style="text-align: center">패스트캠퍼스 국비지원 <br>- 웹 개발 왕초보 입문 13회차 (30시간)</td>
+    <td rowspan="2" style="text-align: center">패스트캠퍼스 국비지원 <br>- 웹 개발 왕초보 입문 13회차 (30H)</td>
     <td rowspan="2" style="text-align: center">
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
@@ -188,7 +188,7 @@
   </tr>
   <tr>
     <td style="text-align: center">2023.08 <br>~ 2023.10</td>
-    <td style="text-align: center">패스트캠퍼스 국비지원 <br>- 포토샵 5주 완성 15회차 (30시간)</td>
+    <td style="text-align: center">패스트캠퍼스 국비지원 <br>- 포토샵 5주 완성 15회차 (30H)</td>
     <td style="text-align: center">
       <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="photoshop">
       <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" alt="Slack">
