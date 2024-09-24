@@ -1,7 +1,5 @@
 # HJ Cho 😉
 
-<div align=left>
-
 ![header](https://capsule-render.vercel.app/api?type=soft&color=292d3e&height=200&section=header&text=Welcome%20to%20hjinn0813's%20GitHub!👋&fontSize=45&fontColor=c792ea)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhjinn0813&count_bg=%23c792ea&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_for-the-badge=false)](https://github.com/hjinn0813)
@@ -192,7 +190,8 @@
     <td style="text-align: center">2023.08 <br>~ 2023.10</td>
     <td style="text-align: center">패스트캠퍼스 국비지원 <br>- 포토샵 5주 완성 15회차 (30시간)</td>
     <td style="text-align: center">
-      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="ohotoshop">
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="photoshop">
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" alt="Slack">
     </td>
     <td colspan="2" style="text-align: center"></td>
   </tr>
