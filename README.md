@@ -20,7 +20,9 @@
   <tr>
     <td style="text-align: center">2024.09 ~</td>
     <td style="text-align: center">Junior Frontend Developer</td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white" alt="tailwind">
+    </td>
     <td colspan="2" style="text-align: center">
     </td>
   </tr>
