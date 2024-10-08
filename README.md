@@ -22,6 +22,9 @@
     <td style="text-align: center">Junior Frontend Developer</td>
     <td style="text-align: center">
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white" alt="tailwind">
+      <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="ReactQuery
+">
+      <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="axios">
     </td>
     <td colspan="2" style="text-align: center">
     </td>
@@ -30,7 +33,7 @@
     <td style="text-align: center">2024.08</td>
     <td style="text-align: center">Next.js 셀프 스터디</td>
     <td style="text-align: center">
-      <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="next.js">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="next.js">
     </td>
     <td colspan="2" style="text-align: center">
       학습내용: <a href="https://github.com/hjinn0813/nextjs-start" target="_blank">README
