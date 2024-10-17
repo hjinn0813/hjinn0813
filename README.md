@@ -25,6 +25,7 @@
       <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="ReactQuery
 ">
       <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="axios">
+      <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=Zustand&logoColor=white" alt="zustand">
     </td>
     <td colspan="2" style="text-align: center">
     </td>
