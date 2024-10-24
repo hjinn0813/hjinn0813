@@ -22,11 +22,13 @@
     <td style="text-align: center">Junior Frontend Developer</td>
     <td style="text-align: center">
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white" alt="tailwind">
-      <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="ReactQuery
-">
+      <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="ReactQuery">
       <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="axios">
       <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=Zustand&logoColor=white" alt="zustand">
+      <br/>
       <img src="https://img.shields.io/badge/Fast_API-009688?style=flat-square&logo=fastAPI&logoColor=white" alt="fast api">
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" alt="MariaDB">
+      <img src="https://img.shields.io/badge/HeidiSQL-8cc600?style=flat-square&logo=HeidiSQL&logoColor=white" alt="HeidiSQL">
     </td>
     <td colspan="2" style="text-align: center">
     </td>
@@ -50,7 +52,6 @@
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-      <br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="Typescript">
       <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=Sass&logoColor=white" alt="SASS">
       <br />
@@ -58,6 +59,7 @@
       <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=GreenSock&logoColor=white" alt="GSAP">
       <img src="https://img.shields.io/badge/lodash-3492FF?style=flat-square&logo=lodash&logoColor=white" alt="Lodash">
       <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white" alt="MUI">
+      <br />
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
       <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" alt="Slack">
     </td>
