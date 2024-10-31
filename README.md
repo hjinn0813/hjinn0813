@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td style="text-align: center">2024.09 ~</td>
-    <td style="text-align: center">Junior Frontend Developer</td>
+    <td style="text-align: center">Junior Frontend Developer<br/>(growing as a Full-Stack Developer)</td>
     <td style="text-align: center">
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white" alt="tailwind">
       <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="ReactQuery">
