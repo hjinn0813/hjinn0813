@@ -26,9 +26,9 @@
       <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="axios">
       <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=Zustand&logoColor=white" alt="zustand">
       <br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/Fast_API-009688?style=flat-square&logo=fastAPI&logoColor=white" alt="fast api">
       <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" alt="MariaDB">
-      <img src="https://img.shields.io/badge/HeidiSQL-8cc600?style=flat-square&logo=HeidiSQL&logoColor=white" alt="HeidiSQL">
     </td>
     <td colspan="2" style="text-align: center">
     </td>
