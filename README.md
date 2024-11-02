@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=292d3e&height=200&section=header&text=Welcome%20to%20hjinn0813's%20GitHub!👋&fontSize=45&fontColor=c792ea)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhjinn0813&count_bg=%23c792ea&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_for-the-badge=false)](https://github.com/hjinn0813)
-[![Static Badge](https://img.shields.io/badge/Classification_by_type_of-tech_stacks-c165ef?style=flat)](https://github.com/hjinn0813/hjinn0813/blob/main/Stacks.md)
+[![Static Badge](https://img.shields.io/badge/Click_and_check-my_tech_stacks-c165ef?style=flat)](https://github.com/hjinn0813/hjinn0813/blob/main/Stacks.md)
 
 #
 
