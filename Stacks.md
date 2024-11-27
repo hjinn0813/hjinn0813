@@ -28,7 +28,10 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![fastapi](https://img.shields.io/badge/Fast_API-009688?style=for-the-badge&logo=fastAPI&logoColor=white)
   ![MariaDB](https://img.shields.io/badge/Maria_DB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
-
+  ![php](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+  ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+  
 - **Framework & Library**
 
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
