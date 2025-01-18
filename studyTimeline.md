@@ -28,6 +28,7 @@
       <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" alt="tomcat">
       <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white" alt="filezilla">
       <img src="https://img.shields.io/badge/Masonry-D26?style=flat-square&logo=Masonry&logoColor=white" alt="masonry.js">
+      <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white" alt="socket.io">
     </td>
     <td colspan="2" style="text-align: center">
     </td>
