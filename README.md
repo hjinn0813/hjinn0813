@@ -48,6 +48,7 @@
   ![Lodash](https://img.shields.io/badge/lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white)
   ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=MUI&logoColor=white)
   ![Masonry](https://img.shields.io/badge/Masonry-D26?style=for-the-badge&logo=Masonry&logoColor=white)
+  ![socketio](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white)
   
 - **Version Control**
 
