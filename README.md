@@ -14,22 +14,20 @@
   <img src="https://skillicons.dev/icons?i=html&perline="/>
   <img src="https://skillicons.dev/icons?i=css&perline="/>
   <img src="https://skillicons.dev/icons?i=js&perline="/>
-
+  <br/>
   <img src="https://skillicons.dev/icons?i=react&perline="/>
   <img src="https://skillicons.dev/icons?i=redux&perline="/>
   <img src="https://skillicons.dev/icons?i=nodejs&perline="/>
   <img src="https://img.shields.io/badge/-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" style="width:55px;">
   <img src="https://img.shields.io/badge/-5A29E4?style=for-the-badge&logo=axios&logoColor=white" style="width:55px;">
   <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=Zustand&logoColor=white">
-
+  <br/>
   <img src="https://skillicons.dev/icons?i=scss&perline="/>
   <img src="https://skillicons.dev/icons?i=tailwind&perline="/>
   <img src="https://skillicons.dev/icons?i=styledcomponents&perline="/>
   <img src="https://skillicons.dev/icons?i=nextjs&perline="/>
   <img src="https://skillicons.dev/icons?i=ts&perline="/>
   <img src="https://skillicons.dev/icons?i=jquery&perline="/>
-
-
 
 - **Backend**
 
@@ -41,8 +39,6 @@
   <img src="https://img.shields.io/badge/-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" style="width:58px;">
   <img src="https://img.shields.io/badge/-BF0000?style=for-the-badge&logo=filezilla&logoColor=white" style="width:58px;">
 
-
-  
 - **Framework & Library**
 
   <img src="https://skillicons.dev/icons?i=bootstrap&perline="/>
@@ -70,7 +66,6 @@
   <img src="https://skillicons.dev/icons?i=discord&perline="/>
   <img src="https://skillicons.dev/icons?i=notion&perline="/>
   <img src="https://img.shields.io/badge/-0B5CFF?style=for-the-badge&logo=zoom&logoColor=white" style="width:58px;">
-
 
 #
 
