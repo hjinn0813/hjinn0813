@@ -72,19 +72,38 @@
   ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
   ![Zoom](https://img.shields.io/badge/Zoom-0B5CFF?style=for-the-badge&logo=zoom&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-        
+
 #
 
 ### Contact
+<a href="mailto:hjc3790@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&perline="/></a>
+<a href="https://codepen.io/hjinn0813"><img src="https://skillicons.dev/icons?i=codepen&perline="/></a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hjc3790@gmail.com)
-[![Tistory](https://img.shields.io/badge/Tistory-ffb47a?style=for-the-badge&logo=tistory&logoColor=black)](https://hjinn0813.tistory.com/)
-[![codepen](https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/hjinn0813)
+#
+
+### Recent Blog Posts
+<div align="left">
+<!-- LATEST POSTS -->
+<ul>
+  <li>
+  <a href="https://hjinn0813/tisrory.com/166" target="_blank">UI/UX 기획 관련 인사이트</a>
+  </li>
+  <li>
+  <a href="https://hjinn0813/tisrory.com/165" target="_blank">IDE의 종류 (VS code 에러 해결)</a>
+  </li>
+  <li>
+  <a href="https://hjinn0813/tisrory.com/164" target="_blank">활성 사용자 정의</a>
+  </li>
+  <li>
+  <a href="https://hjinn0813/tisrory.com/163" target="_blank">socket.io로 채팅 어플리케이션 만들기 (w. React, Express)</a>
+  </li>
+  <li>
+  <a href="https://hjinn0813/tisrory.com/162" target="_blank">WebSocket과 socket.io의 기본 개념</a>
+  </li>
+</ul>
+<!-- POSTS END -->
 
 #
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjinn0813&layout=compact&theme=material-palenight)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hjinn0813&show_icons=true&theme=material-palenight)
-
 ![Longest streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hjinn0813&theme=material-palenight)
