@@ -7,7 +7,7 @@
  
  #
  
- ### Have been used or Now learning (2025.04)
+ ### Have been used or Now learning (2025.05)
  
  - **Frontend**
  
@@ -18,8 +18,10 @@
    ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
    ![ReactQuery](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
    ![axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
    ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
    ![zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=Zustand&logoColor=white)
+   ![vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
  
    ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
@@ -32,11 +34,11 @@
  
  - **Backend**
  
+   ![php](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
    ![fastapi](https://img.shields.io/badge/Fast_API-009688?style=for-the-badge&logo=fastAPI&logoColor=white)
    ![MariaDB](https://img.shields.io/badge/Maria_DB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
  
-   ![php](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
    ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
    ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
    ![filezilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
