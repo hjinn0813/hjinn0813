@@ -15,6 +15,14 @@
     <td style="text-align: center">2024.09 ~</td>
     <td style="text-align: center">Junior Frontend Developer<br/>(growing as a Full-Stack Developer)</td>
     <td style="text-align: center">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white" alt="php">
+      <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="apache">
+      <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white" alt="socket.io">
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" alt="MariaDB">
+      <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white" alt="filezilla">
+      <br/>
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white" alt="tailwind">
       <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="ReactQuery">
       <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="axios">
@@ -22,15 +30,11 @@
       <br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/Fast_API-009688?style=flat-square&logo=fastAPI&logoColor=white" alt="fast api">
-      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" alt="MariaDB">
-      <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white" alt="php">
-      <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="apache">
-      <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" alt="tomcat">
-      <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white" alt="filezilla">
       <img src="https://img.shields.io/badge/Masonry-D26?style=flat-square&logo=Masonry&logoColor=white" alt="masonry.js">
-      <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white" alt="socket.io">
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" alt="Slack">
     </td>
     <td colspan="2" style="text-align: center">
+      <p>푸딘코 테이블오더 & 예약하기 (2025.01~)</p>
     </td>
   </tr>
   <tr>
