@@ -2,7 +2,6 @@
  
  ![header](https://capsule-render.vercel.app/api?type=soft&color=292d3e&height=200&section=header&text=Welcome%20to%20hjinn0813's%20GitHub!👋&fontSize=45&fontColor=c792ea)
  
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhjinn0813&count_bg=%23c792ea&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_for-the-badge=false)](https://github.com/hjinn0813)
  [![Static Badge](https://img.shields.io/badge/Click_and_check-my_career_timeline-c165ef?style=flat)](https://github.com/hjinn0813/hjinn0813/blob/main/studyTimeline.md)
  
  #
@@ -19,13 +18,13 @@
    ![ReactQuery](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
    ![axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-   ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
    ![zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=Zustand&logoColor=white)
-   ![vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+   ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+   ![vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
  
-   ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
    ![tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
+   ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
    ![styled-components](https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
  
    ![next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
