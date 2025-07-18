@@ -81,7 +81,6 @@
 #
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjinn0813&layout=compact&theme=material-palenight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hjinn0813&show_icons=true&count_private=true&theme=material-palenight)
 
 ![Longest streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hjinn0813&count_private=true&theme=material-palenight)
 ![Longest streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hjcho0813&count_private=true&theme=algolia)
