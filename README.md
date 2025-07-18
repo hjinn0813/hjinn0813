@@ -1,12 +1,6 @@
 # HJ Cho 😉
  
- ![header](https://capsule-render.vercel.app/api?type=soft&color=292d3e&height=200&section=header&text=Welcome%20to%20hjinn0813's%20GitHub!👋&fontSize=45&fontColor=c792ea)
- 
- [![Static Badge](https://img.shields.io/badge/Click_and_check-my_career_timeline-c165ef?style=flat-square)](https://github.com/hjinn0813/hjinn0813/blob/main/studyTimeline.md)
- 
- #
- 
- ### Have been used or Now learning (2025.06)
+### Have been used or Now learning (2025.07)
 
  <table>
   <tr>
@@ -78,19 +72,16 @@
    </td>
   </tr>
  </table>
- 
- #
- 
- ### Contact
- 
-<a href="mailto:hjc3790@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&perline="/></a>
-<a href="https://codepen.io/hjinn0813"><img src="https://skillicons.dev/icons?i=codepen&perline="/></a>
-<a href="https://hjinn0813.tistory.com"><img src="https://img.shields.io/badge/-F24E1E?style=flat&logo=tistory&logoColor=white" style="width:60px;"/></a>
- 
- #
- 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjinn0813&layout=compact&theme=material-palenight)
- 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hjinn0813&show_icons=true&theme=material-palenight)
- 
- ![Longest streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hjinn0813&theme=material-palenight)
+
+#
+
+[![Static Badge](https://img.shields.io/badge/Click_and_check-my_career_timeline-c165ef?style=flat-square)](https://github.com/hjinn0813/hjinn0813/blob/main/studyTimeline.md)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:hjc3790@gmail.com)
+
+#
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjinn0813&layout=compact&theme=material-palenight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hjinn0813&show_icons=true&count_private=true&theme=material-palenight)
+
+![Longest streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hjinn0813&count_private=true&theme=material-palenight)
+![Longest streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hjcho0813&count_private=true&theme=algolia)
