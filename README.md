@@ -1,6 +1,6 @@
 # HJ Cho 😉
  
-### Have been used or Now learning (2025.07)
+### Have been used or Now learning (2025.08)
 
  <table>
   <tr>
@@ -32,11 +32,13 @@
    <td>
     <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white" alt="php">
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" alt="MariaDB">
+    <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white" alt="filezilla">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="java">
+    <br>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Fast_API-009688?style=flat-square&logo=fastAPI&logoColor=white" alt="fastapi">
     <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache">
     <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" alt="Tomcat">
-    <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white" alt="filezilla">
    </td>
   </tr>
   <tr>
@@ -51,14 +53,16 @@
    </td>
   </tr>
   <tr>
-   <th>Version Control,<br>Dev & Deploy Tool</th>
+   <th>Version Control,<br>IDE & Deploy Tool</th>
    <td>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
     <br>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS_Code">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify">
     <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+    <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="intelliJ">
+    
    </td>
   </tr>
   <tr>
