@@ -22,6 +22,7 @@
       <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white" alt="socket.io">
       <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" alt="MariaDB">
       <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white" alt="filezilla">
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="java">
       <br/>
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white" alt="tailwind">
       <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="ReactQuery">
