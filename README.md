@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify">
     <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
     <!-- <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="intelliJ"> -->
-    <!-- <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipseIDE&logoColor=f37726" alt="Eclipse"> -->
+    <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipseIDE&logoColor=f37726" alt="Eclipse">
     
    </td>
   </tr>
