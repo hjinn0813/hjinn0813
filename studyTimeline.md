@@ -15,7 +15,7 @@
     <td style="text-align: center">2024.09 ~</td>
     <td style="text-align: center">Junior Frontend Developer<br/>(growing as a Full-Stack Developer)</td>
     <td style="text-align: center">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
       <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white" alt="php">
       <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="apache">
@@ -38,7 +38,11 @@
       <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" alt="Slack">
     </td>
     <td colspan="2" style="text-align: center">
-      <p>푸딘코 테이블오더 & 예약하기 (2025.01~)</p>
+      푸딘코 테이블오더 & 예약하기 (2025.01~)
+      <ul>
+        <li>5/26 - 테이블오더 1차 런칭</li>
+        <li>7/11 - 테이블오더 2차 런칭</li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -48,7 +52,7 @@
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="next.js">
     </td>
     <td colspan="2" style="text-align: center">
-      학습내용: <a href="https://github.com/hjinn0813/nextjs-start" target="_blank">README
+      학습자료: <a href="https://github.com/hjinn0813/nextjs-start" target="_blank">README
     </td>
   </tr>
 
@@ -58,7 +62,7 @@
     <td rowspan="4" style="text-align: center">서울시 뉴딜 일자리 <br>- 모던 웹 풀스택 개발자 과정 (290H)</td>
     <td rowspan="4" style="text-align: center">
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="Typescript">
       <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=Sass&logoColor=white" alt="SASS">
@@ -71,7 +75,7 @@
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
       <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" alt="Slack">
     </td>
-    <td style="text-align: center">학습내용</td>
+    <td style="text-align: center">학습자료</td>
     <td style="text-align: center">
       <a href="https://github.com/hjinn0813/newdeal" target="_blank">README
     </td>
@@ -106,7 +110,7 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
     </td>
     <td colspan="2" style="text-align: center">
-      학습내용: <a href="https://github.com/hjinn0813/python-start" target="_blank">README
+      학습자료: <a href="https://github.com/hjinn0813/python-start" target="_blank">README
     </td>
   </tr>
 
@@ -116,7 +120,7 @@
     <td rowspan="4" style="text-align: center">서울 청년취업사관학교 <br>- 프론트엔드 입문 과정 (354H)</td>
     <td rowspan="4" style="text-align: center">
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
       <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="JQuery">
       <br/>
@@ -145,7 +149,7 @@
       <img src="https://img.shields.io/badge/Zoom-0B5CFF?style=flat-square&logo=zoom&logoColor=white" alt="Zoom">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion">
     </td>
-    <td style="text-align: center">학습내용</td>
+    <td style="text-align: center">학습자료</td>
     <td style="text-align: center">
       <a href="https://github.com/hjinn0813/SeSAC-GD-3rd" target="_blank">README
     </td>
@@ -179,7 +183,7 @@
     <td rowspan="2" style="text-align: center">패스트캠퍼스 국비지원 <br>- 웹 개발 왕초보 입문 13회차 (30H)</td>
     <td rowspan="2" style="text-align: center">
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
       <br/>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
@@ -213,4 +217,5 @@
     <td colspan="2" style="text-align: center"></td>
   </tr>
 </table>
+
 
