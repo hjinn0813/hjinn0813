@@ -52,7 +52,7 @@
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion">
     </td>
     <td colspan="2" style="text-align: center">
-      푸딘코 테이블오더 & 예약하기 (2025.01~)
+      푸딘코 테이블오더 (2025.01~)
       <ul>
         <li>5/26 - 테이블오더 1차 런칭</li>
         <li>7/11 - 테이블오더 2차 런칭</li>
@@ -247,6 +247,7 @@
     <td colspan="2" style="text-align: center"></td>
   </tr>
 </table>
+
 
 
 
