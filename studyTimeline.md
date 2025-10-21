@@ -12,8 +12,8 @@
     </th>
   </tr>
   <tr>
-    <td rowspan="3" style="text-align: center">2024.09 ~</td>
-    <td rowspan="3" style="text-align: center">Junior Frontend Developer<br/>(growing as a Full-Stack Developer)</td>
+    <td rowspan="4" style="text-align: center">2024.09 ~</td>
+    <td rowspan="4" style="text-align: center">Junior Frontend Developer<br/>(growing as a Full-Stack Developer)</td>
     <td style="text-align: center">
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="java">
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="sptingboot">
@@ -23,6 +23,20 @@
     <td colspan="2" style="text-align: center">
       푸딘코 레거시 API (2025.연말)
     </td>
+  </tr>
+  <tr>
+    <td style="text-align: center">
+      <img src="https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="vite">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="Typescript">
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white" alt="tailwind">
+      <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="ReactQuery">
+      <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="axios">
+      <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=Zustand&logoColor=white" alt="zustand">
+      <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white" alt="Swiper">
+      <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="capacitor">
+    </td>
+    <td colspan="2" style="text-align: center">푸딘코 리액트 웹앱 (2025.11~)</td>
   </tr>
   <tr>
     <td>
@@ -233,5 +247,6 @@
     <td colspan="2" style="text-align: center"></td>
   </tr>
 </table>
+
 
 
