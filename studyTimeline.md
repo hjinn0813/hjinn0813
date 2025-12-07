@@ -12,19 +12,8 @@
     </th>
   </tr>
   <tr>
-    <td rowspan="4" style="text-align: center">2024.09 ~</td>
-    <td rowspan="4" style="text-align: center">Junior Frontend Developer<br/>(growing as a Full-Stack Developer)</td>
-    <td style="text-align: center">
-      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="java">
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="sptingboot">
-      <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="gradle">
-      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseIDE&logoColor=f37726" alt="Eclipse">
-    </td>
-    <td colspan="2" style="text-align: center">
-      푸딘코 레거시 API (2025.연말)
-    </td>
-  </tr>
-  <tr>
+    <td rowspan="3" style="text-align: center">2024.09 ~</td>
+    <td rowspan="3" style="text-align: center">Junior Frontend Developer<br/>(growing as a Full-Stack Developer)</td>
     <td style="text-align: center">
       <img src="https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="vite">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
@@ -247,6 +236,7 @@
     <td colspan="2" style="text-align: center"></td>
   </tr>
 </table>
+
 
 
 
