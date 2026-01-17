@@ -12,8 +12,8 @@
     </th>
   </tr>
   <tr>
-    <td rowspan="3" style="text-align: center">2024.09 ~</td>
-    <td rowspan="3" style="text-align: center">Junior Frontend Developer<br/>(growing as a Full-Stack Developer)</td>
+    <td rowspan="4" style="text-align: center">2024.09 ~</td>
+    <td rowspan="4" style="text-align: center">Junior Frontend Developer<br/>(growing as a Full-Stack Developer)</td>
     <td style="text-align: center">
       <img src="https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="vite">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
@@ -47,6 +47,17 @@
         <li>7/11 - 테이블오더 2차 런칭</li>
       </ul>
     </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white" alt="php">
+      <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="apache">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS">
+      <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white" alt="filezilla">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+    </td>
+    <td colspan="2">펫벨업 자사몰 (외주 커머스) (2024.09~)</td>
   </tr>
   <tr>
     <td>
@@ -236,6 +247,7 @@
     <td colspan="2" style="text-align: center"></td>
   </tr>
 </table>
+
 
 
 
