@@ -1,6 +1,6 @@
 # HJ Cho 😉
  
-### Have been used or Now learning (2025.12)
+### Have been used or Now learning (2026.02)
 
  <table>
   <tr>
@@ -90,4 +90,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjinn0813&layout=compact&theme=material-palenight)
 
 ![Longest streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hjinn0813&count_private=true&theme=material-palenight)
-![Longest streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hjcho0813&count_private=true&theme=algolia)
