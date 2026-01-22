@@ -1,6 +1,6 @@
 # HJ Cho 😉
  
-### Have been used or Now learning (2026.02)
+### Have been used or Now learning
 
  <table>
   <tr>
