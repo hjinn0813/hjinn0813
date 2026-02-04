@@ -91,4 +91,4 @@
 
 ![Longest streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hjinn0813&count_private=true&theme=material-palenight)
 
-![Blog List](https://blog-readme-stats-one.vercel.app/api/blog/card/list?rss=https://hjinn0813.tistory.com/rss)
+[![Blog GitHub stats](https://blog-readme-stats-one.vercel.app/api/blog/card/list?rss=https://hjinn0813.tistory.com/rss)](https://hjinn0813.tistory.com)
