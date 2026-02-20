@@ -25,7 +25,7 @@
       <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white" alt="Swiper">
       <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="capacitor">
     </td>
-    <td colspan="2" style="text-align: center">푸딘코 리액트 웹앱<br>(2025.11 ~ 2025.12)</td>
+    <td colspan="2" style="text-align: center">푸딘코 리액트 웹앱<br>(2025.10 ~ 2025.12)</td>
   </tr>
   <tr>
     <td>
@@ -247,6 +247,7 @@
     <td colspan="2" style="text-align: center"></td>
   </tr>
 </table>
+
 
 
 
