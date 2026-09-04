@@ -22,6 +22,7 @@
     <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white" alt="tailwind">
     <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=Sass&logoColor=white" alt="SASS">
     <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white" alt="styled-components">
+    <img src="https://img.shields.io/badge/Shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcnui">
     <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"> -->
    </td>
   </tr>
@@ -46,6 +47,7 @@
     <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white" alt="MUI">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
     <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=GreenSock&logoColor=white" alt="GSAP">
+    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" alt="chartjs">
     <!-- <img src="https://img.shields.io/badge/lodash-3492FF?style=flat-square&logo=lodash&logoColor=white" alt="Lodash"> -->
    </td>
   </tr>
@@ -55,6 +57,8 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS_Code">
+    <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm">
+    <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm">
     <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="vite">
     <br>
     <img src="https://img.shields.io/badge/Vitest-000?style=flat-square&logo=vitest&logoColor=00ff74" alt="vitest">
