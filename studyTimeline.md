@@ -21,6 +21,10 @@
       <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="supabase">
       <img src="https://img.shields.io/badge/Vitest-000?style=flat-square&logo=vitest&logoColor=00ff74" alt="vitest">
       <img src="https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white" alt="cypress">
+      <br>
+      <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm">
+      <img src="https://img.shields.io/badge/Shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcnui">
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" alt="chartjs">
     </td>
     <td colspan="2" style="text-align: center"></td>
   </tr>
